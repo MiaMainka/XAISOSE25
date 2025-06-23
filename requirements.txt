@@ -5,3 +5,4 @@ seaborn==0.13.2
 jupyterlab==4.4.3
 notebook==7.4.3
 scipy==1.15.3
+scikit-learn==1.7.0
