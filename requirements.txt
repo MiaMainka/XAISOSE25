@@ -7,3 +7,4 @@ notebook==7.4.3
 scipy==1.15.3
 scikit-learn==1.7.0
 shap
+statsmodels
